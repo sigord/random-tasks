@@ -1,0 +1,18 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file conda-requirements.txt --channel default --channel anaconda --channel conda-forge
+
+python>=3.6
+jupyter>=1.0.0
+numpy>=1.10.1
+matplotlib>=1.4.3
+pandas>=0.17.1
+requests>=2.7.0
+scipy>=0.16.0
+statsmodels
+bs4
+tqdm
+# conda install -c conda-forge fake-useragent
+# Need to changed the line 99 in fake_useragent/utils.py to:
+# html = html.split('<table class="ws-table-all notranslate">')[1]
+fake-useragent
+stem
