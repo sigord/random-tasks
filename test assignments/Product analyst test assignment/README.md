@@ -22,7 +22,7 @@ scrapper.py -p data.csv
 ```
 5. Open the notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sigord/random-tasks/blob/main/test%20assignments/Product%20analyst%20test%20assignment/hypothesis_testing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sigord/random-tasks/blob/main/test%20assignments/Product%20analyst%20test%20assignment/hypothesis_testing.ipynb)
 
 ### Further work
 1. Add proxing to scraper
