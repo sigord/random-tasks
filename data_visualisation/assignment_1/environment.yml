@@ -1,0 +1,11 @@
+# run: conda env create --file environment.yml
+name: pandas_env
+channels:
+ - conda-forge
+ - anaconda
+ - defaults
+dependencies:
+- python>=3.8
+- openpyxl
+- pandas
+
